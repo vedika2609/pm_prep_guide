@@ -1,4 +1,4 @@
-# 🎯 30-Day Technical PM Interview Prep — Vedika Gupta
+# 🎯 30-Day PM Interview Prep — Vedika Gupta
 
 *A structured, high-rigor portfolio of daily interview assignments, solutions, and evaluations.*
 
