@@ -15,7 +15,6 @@ The goal is simple:
 
 ### 🥇 **Become fully prepared to clear the toughest PM interviews in the world.**
 
----
 
 ## 📌 Background  
 
@@ -32,21 +31,21 @@ This preparation journey is designed to help me reach readiness for L4/L5 roles 
 - OpenAI  
 - Snowflake  
 
----
 
 # 📁 Repository Structure
 
 ```
 .
 ├── README.md
-├── Day_01/
-│   ├── question.md
-│   ├── solution.md
-│   └── evaluation.md
-├── Day_02/
-│   ├── question.md
-│   ├── solution.md
-│   └── evaluation.md
+├── assignments/
+│   │── Day_01/
+│       ├── question.md
+│       ├── solution.md
+│       └── evaluation.md
+│   ├── Day_02/
+│       ├── question.md
+│       ├── solution.md
+│       └── evaluation.md
 │
 ├── Day_30/ ...
 │
@@ -61,7 +60,6 @@ This preparation journey is designed to help me reach readiness for L4/L5 roles 
     └── weekly_lessons.md
 ```
 
----
 
 # 🧠 Daily Workflow
 
@@ -72,13 +70,11 @@ This preparation journey is designed to help me reach readiness for L4/L5 roles 
 5. Commit evaluation.md  
 6. Weekly reflection  
 
----
 
 # 🧭 30-Day Prep Curriculum
 
 Includes Product Sense, System Design, Analytics, ML Infra, Strategy, Leadership.
 
----
 
 # 📈 Evaluation Rubric
 
@@ -90,7 +86,6 @@ Includes Product Sense, System Design, Analytics, ML Infra, Strategy, Leadership
 - Communication  
 - Leadership  
 
----
 
 # 🏁 Final Goal
 
