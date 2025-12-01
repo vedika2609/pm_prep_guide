@@ -17,7 +17,7 @@ One sentence describing:
 ---
 
 ## ✅ **B. 3-Minute Hiring Manager Overview (280–350 words)**  
-Must include **all** of the following:
+Must include **all** the following:
 
 ### **1. Headline Summary**  
 Your ownership + what MCP fundamentally does.
